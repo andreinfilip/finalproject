@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "title": "Product 1",
-    "description": "Product 1 description",
+    "title": "Product mai mult decat 1",
+    "description": "Product 1 mai mult deact description",
     "price": 20,
     "images": [
       "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",

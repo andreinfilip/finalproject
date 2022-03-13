@@ -84,8 +84,12 @@ function ProductDetails() {
                   <img
                     src={url}
                     className="d-block"
-                    height="600px"
-                    style={{ marginLeft: "auto", marginRight: "auto" }}
+                    style={{
+                      marginLeft: "auto",
+                      marginRight: "auto",
+                      maxWidth: "100%",
+                      maxHeight: "600px",
+                    }}
                     alt="product"
                   />
                 </div>
