@@ -1,43 +1,106 @@
 [
   {
     "id": 1,
-    "title": "Product mai mult decat 1",
-    "description": "Product 1 mai mult deact description",
+    "title": "Set 15 Pensule Manichiura SensoPRO Milano, Soft Pink",
+    "description": "Soft Pink iti propune varfuri de marimi si forme diferite pentru constructia si decorarea unghiilor false. Se pot folosi si la realizarea diverselor modele cu vopsele acrilice. Se recomanda curatarea pensulelor dupa fiecare utilizare. Setul Soft Pink contine instrumente de calitate pentru trasarea liniilor de nail art cu precizie, pentru constructia unghiilor tehnice cu gel si pentru aplicarea glitterului sau a altor pulberi fine. Lungimile diferite, varfurile ascutite, drepte, in unghi sau rotunjite, modelele plate sau rotunde acopera toate tipurile de lucrari pe care o manichiura profesionala le cere.Alege Set 15 Pensule Manichiura SensoPRO Milano, Soft Pink si te vei bucura de o colectie completa de instrumente calitative de constructie si decorare unghii tehnice!",
     "price": 20,
     "images": [
-      "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-      "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+      "https://c.cdnmp.net/677236441/p/m/9/set-15-pensule-manichiura-sensopro-milano-soft-pink~7635619.jpg",
+      "https://c.cdnmp.net/677236441/p/m/8/set-15-pensule-manichiura-sensopro-milano-soft-pink~7635618.jpg"
     ],
-    "stock": 5,
+    "stock": 50,
     "size": "L",
-    "categories": ["sport", "modern"]
+    "categories": ["Set Pensule Unghii"]
   },
 
   {
     "id": 2,
-    "title": "Product 2",
-    "description": "Product 2 description",
-    "price": 13,
+    "title": "Set 10 Pile Unghii Picatura granulatia 120/180 - SensoPRO Milano",
+    "description": "SensoPRO Milano sunt un must cand vine vorba despre accesoriile de manichiura premium ce trebuie sa faca parte din trusa unei manichiuriste. Pilele sunt de cea mai buna calitate, fiind eficiente pentru pilirea unghiilor naturale sau artificiale pentru a obtine o manichiura cu gel sau acryl. Pilele profesionale sunt niste accesorii practice pentru lucrarile de manichiura. Acestea au forma de picatura pentru ca tu sa lucrezi in unghiuri dificile cu usurinta. Confectionate din materiale rezistente, produsele pot modela cu rapiditate atat pe unghiile naturale cat si pe cele false. Se livreaza set de 10 pile.",
+    "price": 15,
     "images": [
-      "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-      "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+      "https://c.cdnmp.net/677236441/p/m/2/set-10-pile-unghii-picatura-granulatia-120-180-sensopro-milano~7645862.jpg"
     ],
-    "stock": 7,
+    "stock": 100,
     "size": "M",
-    "categories": ["jeans", "modedenimrn"]
+    "categories": ["Pile Unghii", "Buffer"]
   },
 
   {
     "id": 3,
-    "title": "Product 3",
-    "description": "Product 3 description",
+    "title": "Set 10 Pile Unghii Picatura granulatia 100/180 - SensoPRO Milano, negru",
+    "description": "SensoPRO Milano negru sunt un must cand vine vorba despre accesoriile de manichiura premium ce trebuie sa faca parte din trusa unei manichiuriste. Pilele sunt de cea mai buna calitate, fiind eficiente pentru pilirea unghiilor naturale sau artificiale pentru a obtine o manichiura cu gel sau acryl. Pilele profesionale sunt niste accesorii practice pentru lucrarile de manichiura. Acestea au forma de picatura pentru ca tu sa lucrezi in unghiuri dificile cu usurinta. Confectionate din materiale rezistente, produsele pot modela cu rapiditate atat pe unghiile naturale cat si pe cele false. Se livreaza set de 10 pile.",
     "price": 17,
     "images": [
-      "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-      "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+      "https://c.cdnmp.net/677236441/p/m/9/set-10-pile-unghii-picatura-granulatia-100-180-sensopro-milano-negru~7645869.jpg"
     ],
-    "stock": 2,
+    "stock": 50,
     "size": "XXL",
-    "categories": ["casual"]
+    "categories": ["Pile Unghii"]
+  },
+
+  {
+    "id": 4,
+    "title": "Set 10 Pile Unghii Picatura granulatia 100/180 - SensoPRO Milano, negru",
+    "description": "SensoPRO Milano negru sunt un must cand vine vorba despre accesoriile de manichiura premium ce trebuie sa faca parte din trusa unei manichiuriste. Pilele sunt de cea mai buna calitate, fiind eficiente pentru pilirea unghiilor naturale sau artificiale pentru a obtine o manichiura cu gel sau acryl. Pilele profesionale sunt niste accesorii practice pentru lucrarile de manichiura. Acestea au forma de picatura pentru ca tu sa lucrezi in unghiuri dificile cu usurinta. Confectionate din materiale rezistente, produsele pot modela cu rapiditate atat pe unghiile naturale cat si pe cele false. Se livreaza set de 10 pile.",
+    "price": 17,
+    "images": [
+      "https://c.cdnmp.net/677236441/p/m/9/set-10-pile-unghii-picatura-granulatia-100-180-sensopro-milano-negru~7645869.jpg"
+    ],
+    "stock": 50,
+    "size": "XXL",
+    "categories": ["Pile Unghii"]
+  },
+
+  {
+    "id": 5,
+    "title": "Set 10 Pile Unghii Picatura granulatia 100/180 - SensoPRO Milano, negru",
+    "description": "SensoPRO Milano negru sunt un must cand vine vorba despre accesoriile de manichiura premium ce trebuie sa faca parte din trusa unei manichiuriste. Pilele sunt de cea mai buna calitate, fiind eficiente pentru pilirea unghiilor naturale sau artificiale pentru a obtine o manichiura cu gel sau acryl. Pilele profesionale sunt niste accesorii practice pentru lucrarile de manichiura. Acestea au forma de picatura pentru ca tu sa lucrezi in unghiuri dificile cu usurinta. Confectionate din materiale rezistente, produsele pot modela cu rapiditate atat pe unghiile naturale cat si pe cele false. Se livreaza set de 10 pile.",
+    "price": 17,
+    "images": [
+      "https://c.cdnmp.net/677236441/p/m/9/set-10-pile-unghii-picatura-granulatia-100-180-sensopro-milano-negru~7645869.jpg"
+    ],
+    "stock": 50,
+    "size": "XXL",
+    "categories": ["Pile Unghii"]
+  },
+
+  {
+    "id": 6,
+    "title": "Set 10 Pile Unghii Picatura granulatia 100/180 - SensoPRO Milano, negru",
+    "description": "SensoPRO Milano negru sunt un must cand vine vorba despre accesoriile de manichiura premium ce trebuie sa faca parte din trusa unei manichiuriste. Pilele sunt de cea mai buna calitate, fiind eficiente pentru pilirea unghiilor naturale sau artificiale pentru a obtine o manichiura cu gel sau acryl. Pilele profesionale sunt niste accesorii practice pentru lucrarile de manichiura. Acestea au forma de picatura pentru ca tu sa lucrezi in unghiuri dificile cu usurinta. Confectionate din materiale rezistente, produsele pot modela cu rapiditate atat pe unghiile naturale cat si pe cele false. Se livreaza set de 10 pile.",
+    "price": 17,
+    "images": [
+      "https://c.cdnmp.net/677236441/p/m/9/set-10-pile-unghii-picatura-granulatia-100-180-sensopro-milano-negru~7645869.jpg"
+    ],
+    "stock": 50,
+    "size": "XXL",
+    "categories": ["Pile Unghii"]
+  },
+
+  {
+    "id": 7,
+    "title": "Set 10 Pile Unghii Picatura granulatia 100/180 - SensoPRO Milano, negru",
+    "description": "SensoPRO Milano negru sunt un must cand vine vorba despre accesoriile de manichiura premium ce trebuie sa faca parte din trusa unei manichiuriste. Pilele sunt de cea mai buna calitate, fiind eficiente pentru pilirea unghiilor naturale sau artificiale pentru a obtine o manichiura cu gel sau acryl. Pilele profesionale sunt niste accesorii practice pentru lucrarile de manichiura. Acestea au forma de picatura pentru ca tu sa lucrezi in unghiuri dificile cu usurinta. Confectionate din materiale rezistente, produsele pot modela cu rapiditate atat pe unghiile naturale cat si pe cele false. Se livreaza set de 10 pile.",
+    "price": 17,
+    "images": [
+      "https://c.cdnmp.net/677236441/p/m/9/set-10-pile-unghii-picatura-granulatia-100-180-sensopro-milano-negru~7645869.jpg"
+    ],
+    "stock": 50,
+    "size": "XXL",
+    "categories": ["Pile Unghii"]
+  },
+
+  {
+    "id": 8,
+    "title": "Set 10 Pile Unghii Picatura granulatia 100/180 - SensoPRO Milano, negru",
+    "description": "SensoPRO Milano negru sunt un must cand vine vorba despre accesoriile de manichiura premium ce trebuie sa faca parte din trusa unei manichiuriste. Pilele sunt de cea mai buna calitate, fiind eficiente pentru pilirea unghiilor naturale sau artificiale pentru a obtine o manichiura cu gel sau acryl. Pilele profesionale sunt niste accesorii practice pentru lucrarile de manichiura. Acestea au forma de picatura pentru ca tu sa lucrezi in unghiuri dificile cu usurinta. Confectionate din materiale rezistente, produsele pot modela cu rapiditate atat pe unghiile naturale cat si pe cele false. Se livreaza set de 10 pile.",
+    "price": 17,
+    "images": [
+      "https://c.cdnmp.net/677236441/p/m/9/set-10-pile-unghii-picatura-granulatia-100-180-sensopro-milano-negru~7645869.jpg"
+    ],
+    "stock": 50,
+    "size": "XXL",
+    "categories": ["Pile Unghii"]
   }
 ]
