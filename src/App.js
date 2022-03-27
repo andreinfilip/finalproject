@@ -5,6 +5,7 @@ import Home from "./Home/Home";
 import Products from "./Products/Products";
 import ProductDetails from "./ProductDetails/ProductDetails";
 import Cart from "./Cart/Cart";
+import './YoutubeEmbed/YoutubeEmbed.css';
 
 function App() {
   return (

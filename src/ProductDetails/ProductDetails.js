@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import products from "../Products/products.json";
+import YoutubeEmbed from "../YoutubeEmbed/YoutubeEmbed";
 
 function ProductDetails() {
   const { productId } = useParams();
@@ -122,13 +123,12 @@ function ProductDetails() {
           </div>
         </div>
         <div className="col-md-6 col-sm-12 col-xs-12">
+          <YoutubeEmbed embedId={currentProduct.embedId} />
           <p className="fs-4">
-            {" "}
             <strong>Stock: </strong>
             {currentProduct.stock}
           </p>
           <p className="fs-4">
-            {" "}
             <strong>Size:</strong> {currentProduct.size}
           </p>
           <p className="fs-4">
