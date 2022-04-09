@@ -1,107 +1,130 @@
 [
   {
     "id": 1,
-    "title": "Marvel's Spider-Man: Miles Morales PS5",
-    "description": "Miles Morales descopera ca are puteri explozive, care il deosebesc de mentorul sau, Peter Parker. Invata sa-i folosesti atacurile cu venin bioelectric si tehnicile de camuflare, dar si acrobatiile, gadgeturile si aptitudinile.ea incredere si ce ins",
-    "price": 20,
+    "title": "Marvel's Spider-Man: Miles Morales",
+    "description": "A war for control of Marvel's New York has broken out between a devious energy corporation and a high-tech criminal army. With his new home at the heart of the battle, Miles must learn the cost of becoming a hero and decide what he must sacrifice for the greater good.",
+    "price": 30,
     "images": [
-      "https://cdn.ozone.ro/media/catalog/product/cache/1/image/400x498/a4e40ebdc3e371adff845072e1c73f37/m/a/233a3c8b096e3745dffb98e7608ec355/marvel-s-spider-man--miles-morales-ps5-31.png",
-      "https://cdn.ozone.ro/media/catalog/product/cache/1/image/400x498/a4e40ebdc3e371adff845072e1c73f37/m/a/b075a45012bf8ec28c6f7b1119d36af8/marvel-s-spider-man--miles-morales-ps5-32.png"
+      "https://cdn.ozone.ro/media/catalog/product/cache/1/image/a4e40ebdc3e371adff845072e1c73f37/m/a/7809d60ee374bc745818db6585f6c7c0/marvel-s-spider-man--miles-morales-ps5-30.png",
+      "https://cdn.ozone.ro/media/catalog/product/cache/1/image/a4e40ebdc3e371adff845072e1c73f37/m/a/b075a45012bf8ec28c6f7b1119d36af8/marvel-s-spider-man--miles-morales-ps5-32.png",
+      "https://cdn.ozone.ro/media/catalog/product/cache/1/image/a4e40ebdc3e371adff845072e1c73f37/m/a/9d236afb38cfcda1b865ca30d487b3a6/marvel-s-spider-man--miles-morales-ps5-33.png"
     ],
-    "stock": 50,
-    "size": "L",
+    "stock": 15,
+    "type": "Action-adventure",
     "embedId": "T03PxxuCfDA",
-    "categories": ["Jocuri pentru PS5"]
+    "categories": ["Games for PS5"]
   },
 
   {
     "id": 2,
-    "title": "Set 10 Pile Unghii Picatura granulatia 120/180 - SensoPRO Milano",
-    "description": "SensoPRO Milano sunt un must cand vine vorba despre accesoriile de manichiura premium ce trebuie sa faca parte din trusa unei manichiuriste. Pilele sunt de cea mai buna calitate, fiind eficiente pentru pilirea unghiilor naturale sau artificiale pentru a obtine o manichiura cu gel sau acryl. Pilele profesionale sunt niste accesorii practice pentru lucrarile de manichiura. Acestea au forma de picatura pentru ca tu sa lucrezi in unghiuri dificile cu usurinta. Confectionate din materiale rezistente, produsele pot modela cu rapiditate atat pe unghiile naturale cat si pe cele false. Se livreaza set de 10 pile.",
-    "price": 15,
+    "title": "Marvel's Avengers",
+    "description": "Marvel's Avengers is an epic, third-person, action-adventure game that combines an original, cinematic story with single-player and co-operative gameplay.",
+    "price": 35,
     "images": [
-      "https://c.cdnmp.net/677236441/p/m/2/set-10-pile-unghii-picatura-granulatia-120-180-sensopro-milano~7645862.jpg"
+      "https://cdn.ozone.ro/media/catalog/product/cache/1/image/a4e40ebdc3e371adff845072e1c73f37/a/v/024c50ffe2e7e1fb048411fdff39a32b/marvel-s-avengers-ps5-30.png",
+      "https://cdn.ozone.ro/media/catalog/product/cache/1/image/a4e40ebdc3e371adff845072e1c73f37/m/a/4585c5625bbf33195edd4200d3ba8825/marvel-s-avengers-ps5-31.jpg",
+      "https://cdn.ozone.ro/media/catalog/product/cache/1/image/a4e40ebdc3e371adff845072e1c73f37/m/a/d375ee42d806daae5f012f5212222967/marvel-s-avengers-ps5-32.jpg"
     ],
-    "stock": 100,
-    "size": "M",
-    "categories": ["Pile Unghii", "Buffer"]
+    "stock": 10,
+    "type": "Action-adventure",
+    "embedId": "eOrNdBpGMv8",
+    "categories": ["Games for PS5"]
   },
 
   {
     "id": 3,
-    "title": "Set 10 Pile Unghii Picatura granulatia 100/180 - SensoPRO Milano, negru",
-    "description": "SensoPRO Milano negru sunt un must cand vine vorba despre accesoriile de manichiura premium ce trebuie sa faca parte din trusa unei manichiuriste. Pilele sunt de cea mai buna calitate, fiind eficiente pentru pilirea unghiilor naturale sau artificiale pentru a obtine o manichiura cu gel sau acryl. Pilele profesionale sunt niste accesorii practice pentru lucrarile de manichiura. Acestea au forma de picatura pentru ca tu sa lucrezi in unghiuri dificile cu usurinta. Confectionate din materiale rezistente, produsele pot modela cu rapiditate atat pe unghiile naturale cat si pe cele false. Se livreaza set de 10 pile.",
-    "price": 17,
+    "title": "Battlefield 2042",
+    "description": "Battlefield™ 2042 is a first-person shooter that marks the return to the iconic all-out warfare of the franchise. In a near-future world transformed by disorder, adapt and overcome dynamically-changing battlegrounds with the help of your squad and a cutting-edge arsenal.",
+    "price": 30,
     "images": [
-      "https://c.cdnmp.net/677236441/p/m/9/set-10-pile-unghii-picatura-granulatia-100-180-sensopro-milano-negru~7645869.jpg"
+      "https://cdn.ozone.ro/media/catalog/product/cache/1/image/a4e40ebdc3e371adff845072e1c73f37/b/a/33f91f3469cb0460dae1f6bd5f769401/battlefield-2042-ps5-30.jpg",
+      "https://cdn.ozone.ro/media/catalog/product/cache/1/image/a4e40ebdc3e371adff845072e1c73f37/b/a/1adfb7402fcad2a9ac1654a61329dc56/battlefield-2042-ps5-31.jpg",
+      "https://cdn.ozone.ro/media/catalog/product/cache/1/image/a4e40ebdc3e371adff845072e1c73f37/b/a/f0c88d9cef898d11e47db2b6b3effcff/battlefield-2042-ps5-35.jpg"
     ],
-    "stock": 50,
-    "size": "XXL",
-    "categories": ["Pile Unghii"]
+    "stock": 5,
+    "type": "Shooter",
+    "embedId": "FDuMEodqXi0",
+    "categories": ["Games for PS5"]
   },
 
   {
     "id": 4,
-    "title": "Set 10 Pile Unghii Picatura granulatia 100/180 - SensoPRO Milano, negru",
-    "description": "SensoPRO Milano negru sunt un must cand vine vorba despre accesoriile de manichiura premium ce trebuie sa faca parte din trusa unei manichiuriste. Pilele sunt de cea mai buna calitate, fiind eficiente pentru pilirea unghiilor naturale sau artificiale pentru a obtine o manichiura cu gel sau acryl. Pilele profesionale sunt niste accesorii practice pentru lucrarile de manichiura. Acestea au forma de picatura pentru ca tu sa lucrezi in unghiuri dificile cu usurinta. Confectionate din materiale rezistente, produsele pot modela cu rapiditate atat pe unghiile naturale cat si pe cele false. Se livreaza set de 10 pile.",
-    "price": 17,
+    "title": "FIFA 22",
+    "description": "FIFA 22 leverages the power of the PS5 to enable unprecedented football realism, allowing players to forge a gameplay style that closely resembles how real-life footballers compete on the pitch.",
+    "price": 25,
     "images": [
-      "https://c.cdnmp.net/677236441/p/m/9/set-10-pile-unghii-picatura-granulatia-100-180-sensopro-milano-negru~7645869.jpg"
+      "https://cdn.ozone.ro/media/catalog/product/cache/1/image/a4e40ebdc3e371adff845072e1c73f37/f/i/a30eea0ddd13e72a1d1a678034e37dbb/fifa-22-ps5-30.jpg",
+      "https://cdn.ozone.ro/media/catalog/product/cache/1/image/a4e40ebdc3e371adff845072e1c73f37/f/i/27b224d4c277e87bcaf0fc7d3fae7c98/fifa-22-ps5-31.jpg",
+      "https://cdn.ozone.ro/media/catalog/product/cache/1/image/a4e40ebdc3e371adff845072e1c73f37/f/i/451678beb7810b7288bc1f73c45417b3/fifa-22-ps5-32.jpg"
     ],
-    "stock": 50,
-    "size": "XXL",
-    "categories": ["Pile Unghii"]
+    "stock": 30,
+    "type": "Sport",
+    "embedId": "o1igaMv46SY",
+    "categories": ["Games for PS5"]
   },
 
   {
     "id": 5,
-    "title": "Set 10 Pile Unghii Picatura granulatia 100/180 - SensoPRO Milano, negru",
-    "description": "SensoPRO Milano negru sunt un must cand vine vorba despre accesoriile de manichiura premium ce trebuie sa faca parte din trusa unei manichiuriste. Pilele sunt de cea mai buna calitate, fiind eficiente pentru pilirea unghiilor naturale sau artificiale pentru a obtine o manichiura cu gel sau acryl. Pilele profesionale sunt niste accesorii practice pentru lucrarile de manichiura. Acestea au forma de picatura pentru ca tu sa lucrezi in unghiuri dificile cu usurinta. Confectionate din materiale rezistente, produsele pot modela cu rapiditate atat pe unghiile naturale cat si pe cele false. Se livreaza set de 10 pile.",
-    "price": 17,
+    "title": "Call of Duty: Vanguard",
+    "description": "Developed by Sledgehammer Games, Vanguard is a deeply engaging narrative, featuring a select group of soldiers from different countries and backgrounds who rise together to meet the world's gravest threat, change the fortunes of the war, and set the table for what we know today as special forces combat.",
+    "price": 35,
     "images": [
-      "https://c.cdnmp.net/677236441/p/m/9/set-10-pile-unghii-picatura-granulatia-100-180-sensopro-milano-negru~7645869.jpg"
+      "https://cdn.ozone.ro/media/catalog/product/cache/1/image/a4e40ebdc3e371adff845072e1c73f37/c/a/a0e8d2fdf186234f0a39449d5de27587/call-of-duty--vanguard-ps5-30.jpg",
+      "https://cdn.ozone.ro/media/catalog/product/cache/1/image/a4e40ebdc3e371adff845072e1c73f37/c/a/af0d1b0807c6d62baaf549107a0b2729/call-of-duty--vanguard-ps5-31.jpg",
+      "https://cdn.ozone.ro/media/catalog/product/cache/1/image/a4e40ebdc3e371adff845072e1c73f37/c/a/433b06dfb3b7cdf5f8ffb3556e3549d6/call-of-duty--vanguard-ps5-34.jpg"
     ],
-    "stock": 50,
-    "size": "XXL",
-    "categories": ["Pile Unghii"]
+    "stock": 13,
+    "type": "Shooter",
+    "embedId": "OQ1CwPhE8KQ",
+    "categories": ["Games for PS5"]
   },
 
   {
     "id": 6,
-    "title": "Set 10 Pile Unghii Picatura granulatia 100/180 - SensoPRO Milano, negru",
-    "description": "SensoPRO Milano negru sunt un must cand vine vorba despre accesoriile de manichiura premium ce trebuie sa faca parte din trusa unei manichiuriste. Pilele sunt de cea mai buna calitate, fiind eficiente pentru pilirea unghiilor naturale sau artificiale pentru a obtine o manichiura cu gel sau acryl. Pilele profesionale sunt niste accesorii practice pentru lucrarile de manichiura. Acestea au forma de picatura pentru ca tu sa lucrezi in unghiuri dificile cu usurinta. Confectionate din materiale rezistente, produsele pot modela cu rapiditate atat pe unghiile naturale cat si pe cele false. Se livreaza set de 10 pile.",
-    "price": 17,
+    "title": "Uncharted: Legacy of Thieves Collection",
+    "description": "UNCHARTED: Legacy of Thieves Collection includes critically acclaimed, globe-trotting single player exploits from UNCHARTED™ 4: A Thief's End and UNCHARTED™: The Lost Legacy, remastered in stunning detail for the PS5™ console with improved visuals and framerate.",
+    "price": 25,
     "images": [
-      "https://c.cdnmp.net/677236441/p/m/9/set-10-pile-unghii-picatura-granulatia-100-180-sensopro-milano-negru~7645869.jpg"
+      "https://cdn.ozone.ro/media/catalog/product/cache/1/image/a4e40ebdc3e371adff845072e1c73f37/u/n/ac472e5d6c423762f66307efcbbc54e4/uncharted--legacy-of-thieves-collection-ps5-30.jpg",
+      "https://cdn.ozone.ro/media/catalog/product/cache/1/image/a4e40ebdc3e371adff845072e1c73f37/u/n/ece5a8d89f0af27eb42a08e1d7e1a58f/uncharted--legacy-of-thieves-collection-ps5-31.jpg",
+      "https://cdn.ozone.ro/media/catalog/product/cache/1/image/a4e40ebdc3e371adff845072e1c73f37/u/n/48486074d9180671788ec29a7f926a90/uncharted--legacy-of-thieves-collection-ps5-33.jpg"
     ],
-    "stock": 50,
-    "size": "XXL",
-    "categories": ["Pile Unghii"]
+    "stock": 9,
+    "type": "Action-adventure",
+    "embedId": "F3Wl-OiZCO4",
+    "categories": ["Games for PS5"]
   },
 
   {
     "id": 7,
-    "title": "Set 10 Pile Unghii Picatura granulatia 100/180 - SensoPRO Milano, negru",
-    "description": "SensoPRO Milano negru sunt un must cand vine vorba despre accesoriile de manichiura premium ce trebuie sa faca parte din trusa unei manichiuriste. Pilele sunt de cea mai buna calitate, fiind eficiente pentru pilirea unghiilor naturale sau artificiale pentru a obtine o manichiura cu gel sau acryl. Pilele profesionale sunt niste accesorii practice pentru lucrarile de manichiura. Acestea au forma de picatura pentru ca tu sa lucrezi in unghiuri dificile cu usurinta. Confectionate din materiale rezistente, produsele pot modela cu rapiditate atat pe unghiile naturale cat si pe cele false. Se livreaza set de 10 pile.",
-    "price": 17,
+    "title": "Forspoken",
+    "description": "Forspoken is an action RPG that follows the journey of Frey, a young New Yorker transported to the beautiful and cruel land of Athia. In search of a way home, Frey must use her newfound magical abilities to traverse sprawling landscapes, battle monstrous creatures and defeat powerful matriarchs known as Tantas.",
+    "price": 40,
     "images": [
-      "https://c.cdnmp.net/677236441/p/m/9/set-10-pile-unghii-picatura-granulatia-100-180-sensopro-milano-negru~7645869.jpg"
+      "https://cdn.ozone.ro/media/catalog/product/cache/1/image/a4e40ebdc3e371adff845072e1c73f37/f/o/0b111a3c65bb046898cbc8fa01d9f283/forspoken-ps5-30.jpg",
+      "https://cdn.ozone.ro/media/catalog/product/cache/1/image/a4e40ebdc3e371adff845072e1c73f37/f/o/b52f267ffe4b734ffc53ca0ab321ce36/forspoken-ps5-31.jpg",
+      "https://cdn.ozone.ro/media/catalog/product/cache/1/image/a4e40ebdc3e371adff845072e1c73f37/f/o/234d1dc97fde56f666d4ffdd2152c20c/forspoken-ps5-33.jpg"
+
     ],
-    "stock": 50,
-    "size": "XXL",
-    "categories": ["Pile Unghii"]
+    "stock": 7,
+    "type": "Action-adventure",
+    "embedId": "AdZUrXCqUck",
+    "categories": ["Games for PS5"]
   },
 
   {
     "id": 8,
-    "title": "Set 10 Pile Unghii Picatura granulatia 100/180 - SensoPRO Milano, negru",
-    "description": "SensoPRO Milano negru sunt un must cand vine vorba despre accesoriile de manichiura premium ce trebuie sa faca parte din trusa unei manichiuriste. Pilele sunt de cea mai buna calitate, fiind eficiente pentru pilirea unghiilor naturale sau artificiale pentru a obtine o manichiura cu gel sau acryl. Pilele profesionale sunt niste accesorii practice pentru lucrarile de manichiura. Acestea au forma de picatura pentru ca tu sa lucrezi in unghiuri dificile cu usurinta. Confectionate din materiale rezistente, produsele pot modela cu rapiditate atat pe unghiile naturale cat si pe cele false. Se livreaza set de 10 pile.",
-    "price": 17,
+    "title": "MotoGP 22 - Day One Edition",
+    "description": "Day One Edition includes VIP multiplier pack and special suits. Start your engines! The most immersive and realistic chapter of MotoGP™ videogame history will be available on April 21st, with amazing news! Immediate fun from day one with the 2022 Official Season and the new Split-Screen mode to challenge your friends.",
+    "price": 35,
     "images": [
-      "https://c.cdnmp.net/677236441/p/m/9/set-10-pile-unghii-picatura-granulatia-100-180-sensopro-milano-negru~7645869.jpg"
+      "https://cdn.ozone.ro/media/catalog/product/cache/1/image/a4e40ebdc3e371adff845072e1c73f37/m/o/defd8ed1760359e998b92058571797d3/motogp-22---day-one-edition-ps5-30.jpg",
+      "https://cdn.ozone.ro/media/catalog/product/cache/1/image/a4e40ebdc3e371adff845072e1c73f37/m/o/e8b6f69cbf1a838747a78ac9f3f1d33d/motogp-22---day-one-edition-ps5-31.jpg",
+      "https://cdn.ozone.ro/media/catalog/product/cache/1/image/a4e40ebdc3e371adff845072e1c73f37/m/o/4051832acf76ddc4ae9230e04caeaabd/motogp-22---day-one-edition-ps5-35.jpg"
     ],
-    "stock": 50,
-    "size": "XXL",
-    "categories": ["Pile Unghii"]
+    "stock": 6,
+    "type": "Sport",
+    "embedId": "aMrTwlibXdE",
+    "categories": ["Games for PS5"]
   }
 ]

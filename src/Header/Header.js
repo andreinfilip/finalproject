@@ -6,8 +6,9 @@ function Header() {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <div className="container">
-        <Link className="navbar-brand" to="/">
-          My Shop
+      <img src="gameover.png" width="35" height="35" alt="gameover"></img>
+        <Link className="navbar-brand" to="/products">
+          Game Over
         </Link>
         <button
           className="navbar-toggler"
@@ -23,18 +24,12 @@ function Header() {
         <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div className="navbar-nav">
             <Link
-              className={"nav-link" + (pathname === "/" ? " active" : "")}
-              to="/"
-            >
-              Home
-            </Link>
-            <Link
               className={
                 "nav-link" + (pathname === "/products" ? " active" : "")
               }
               to="/products"
             >
-              Products
+              Games
             </Link>
             <Link
               className={
@@ -51,18 +46,12 @@ function Header() {
               Cart
             </Link>
             <Link
-              className={"nav-link" + (pathname === "/faq" ? " active" : "")}
-              to="/faq"
-            >
-              FaQ
-            </Link>
-            <Link
               className={
                 "nav-link" + (pathname === "/contact" ? " active" : "")
               }
               to="/contact"
             >
-              Contact
+              Contact us
             </Link>
           </div>
         </div>

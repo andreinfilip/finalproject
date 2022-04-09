@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
 .App {
   display: grid;
   grid-template-columns: 1fr;
@@ -14,24 +16,64 @@
 .card-img-top {
   width: 100%;
   display: flex;
-  height: 200px;
+  height: 300px;
 }
 
 .card-img-top img {
-  max-height: 200px;
+  max-height: 300px;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+.card-img-top-category {
+  width: 100%;
+  display: flex;
+  height: 400px;
+}
+
+.card-img-top-category img {
+  max-height: 400px;
   margin: 0 auto;
   max-width: 100%;
 }
 
 .card-title {
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .card-text {
-    display: -webkit-box;
-    -webkit-line-clamp: 4;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
+
+.card-text-price {
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(248, 246, 253);
+  background-image: url('https://www.itl.cat/pics/b/37/374853_white-background-wallpaper.jpg');
+}
+
+body,
+input,
+textarea,
+button {
+  font-family: "Inter", sans-serif;
+}
+

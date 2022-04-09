@@ -97,6 +97,7 @@ function Cart() {
             Delete product
           </div>
         </div>
+        
       ))}
 
       {cart.length > 0 ? (

@@ -1,7 +1,8 @@
 import { useEffect, useState } from "react";
-import { useParams } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 import products from "../Products/products.json";
 import YoutubeEmbed from "../YoutubeEmbed/YoutubeEmbed";
+import './ProductDetails.css';
 
 function ProductDetails() {
   const { productId } = useParams();
@@ -129,15 +130,20 @@ function ProductDetails() {
             {currentProduct.stock}
           </p>
           <p className="fs-4">
-            <strong>Size:</strong> {currentProduct.size}
+            <strong>Type:</strong> {currentProduct.type}
           </p>
           <p className="fs-4">
-            <strong>Categorie: </strong> {currentProduct.categories.join(", ")}
+            <strong>Category: </strong> {currentProduct.categories.join(", ")}
           </p>
           <p className="fs-1 fw-bold">{currentProduct.price} Lei</p>
           <div className="btn btn-success" onClick={addToCart}>
             Add to cart ({currentQuantity})
           </div>
+        </div>
+        <div className="back">
+          <Link to="/products" className="btn btn-secondary">
+            Back to Games{" "}
+          </Link>
         </div>
       </div>
     </div>
