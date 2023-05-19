@@ -24,7 +24,7 @@ function ProductDetails() {
         setCurrentQuantity(currentCartItem.quantity);
       }
     }
-  }, []);
+  }, [productId]);
 
   if (!currentProduct) {
     return <div>Not Found!</div>;
